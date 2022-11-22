@@ -1,4 +1,8 @@
 02 Advanced CSS: Portfolio
+
+Deployed App URL:
+https://ralphmenard0.github.io/02-advance-css-portfolio/
+
 Description
 Create a deployed portfolio of work samples for review by potential employers.
 
